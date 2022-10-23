@@ -1,2 +1,2 @@
 # Web-Development
-This is my first coding journey
+This is how I start coding
